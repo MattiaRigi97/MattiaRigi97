@@ -20,7 +20,7 @@
 
 <br>
 
-  <a href="https://in.linkedin.com/in/mattia-rigiroli">
+  <a href="https://in.linkedin.com/in/mattia-rigiroli-377a77136/">
     <img align="left" alt="Mattia Rigiroli | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
   <a href="https://www.instagram.com/mattiarigiroli/">

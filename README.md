@@ -4,7 +4,7 @@
 
 <p>
   <em>
-    I'm a <b>Data Science</b> student at <a href="https://www.unimib.it/"> <b>University of Milano Bicocca</b></a> <br> where I'm graduated in <b>Statistical and         Economic Sciences</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="30px"><br>
+    I'm a <b>Data Science</b> student at <a href="https://www.unimib.it/"> <b>University of Milano Bicocca</b></a> where I'm graduated in <b>Statistical and         Economic Sciences</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="30px"><br>
   </em>  
 </p>
 
